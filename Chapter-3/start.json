@@ -1,0 +1,12 @@
+{
+    "useinfo":[
+        {"name": "monir","Roll":123,"age":19},
+        {"address":"bangldesh","City":"Rajbari"}
+    ],
+    "companyinfo":{
+        "Name":"tasla",
+        "founder":"Alon-musk",
+        "MarketCap":"440b",
+        "bestXom":true
+    }
+}
